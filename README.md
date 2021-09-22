@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andurebel.
-- 👀 I’m interested in full stack development.
+- 👀 I’m interested in front end development.
 - 🌱 I’m currently learning React and Node JS.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me : andu.trica@gmail.com
